@@ -1,0 +1,1 @@
+The Project only uses HTML and CSS, the main purpose of the project was to create a website that looks like youtube soon (Feb 2025) I will be adding another repopsitory of Amazon clone with all three of HTML, CSS and Javascript Code
